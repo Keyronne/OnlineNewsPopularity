@@ -5,7 +5,12 @@ The Flask API works by asking for the Weekday in between 0 and 7, the category o
 You can simply GET or POST to the api to get a response using Weekday Category and NoWords as the parameter names.
 
 **for example**:
+
 http://127.0.0.1:5000/Api?Weekday=3&Category=2&NoWords=1000
+
+response:
+![image](https://user-images.githubusercontent.com/73934773/148301611-cb39a373-31f7-4421-976b-313705b0697d.png)
+
 
 **for the weekdays**:
 - Monday: 1
